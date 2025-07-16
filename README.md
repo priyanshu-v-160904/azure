@@ -2,4 +2,4 @@ i uploaded my gcf
 content
 today
 today 
-i earned
+i earned a oracle
